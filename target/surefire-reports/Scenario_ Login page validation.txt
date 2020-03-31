@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Login page validation
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.773 s - in Scenario: Login page validation

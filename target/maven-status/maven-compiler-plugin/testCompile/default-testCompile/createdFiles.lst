@@ -1,0 +1,3 @@
+stepDefinitions\hpValidation.class
+testRunners\TestRunner.class
+stepDefinitions\loginValidation.class
